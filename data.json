@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Almaty",
+        "country": "Kazakhstan"
+    },
+    {
+        "name": "Nur-Sultan",
+        "country": "Kazakhstan"
+    },
+    {
+        "name": "Moscow",
+        "country": "Russia"
+    },
+    {
+        "name": "Seoul",
+        "country": "South Korea"
+    }
+]
